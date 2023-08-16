@@ -18,3 +18,5 @@ app.listen(port, () => {
 })
 
 mongoose.connect('mongodb+srv://om:Ye6hkj4c3OvOtNYl@cluster0.ynonr4i.mongodb.net/', { dbName: "courses" });
+
+// don't misuse plzzz🙇🙇
